@@ -6,5 +6,7 @@ The game is playable on browser and there is a C# script through which, whatever
 This small project helped me build my basic foundation in 3D environments in Unity.
 #
 ![image](https://user-images.githubusercontent.com/90476376/218378259-f1d23f8f-ca92-495b-aa8b-5604419b9006.png)
+#
+Game Address : (https://chetnaya.itch.io/solar-system)
 
 
